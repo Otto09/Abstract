@@ -6,8 +6,8 @@ package desene_abstract;
 public abstract class Punct
 {
     // instance variables
-    private int x;
-    private int y;
+    int x;
+    int y;
     
     public Punct(int x, int y)
     {
